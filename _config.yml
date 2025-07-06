@@ -1,3 +1,10 @@
 title: Análisis de Datos
+author:
+  name: Miguel Ángel Cabello
+  email: miguelangel.cabello@cunef.edu
+
+description: >
+  Página de la asignatura de Análisis de Datos (Análisis y Explotación de la Información). Curso: 2025-2026. CUNEF Universidad.
+
 tagline: Sitio web de la asignatura
 remote_theme: "jekyll/minima@1e8a445"
